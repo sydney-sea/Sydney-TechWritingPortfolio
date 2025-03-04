@@ -1,3 +1,10 @@
+# Being Independent vs Teaming with Stakeholders
+**Objective:**
+Analyze a piece of documentation to identify which piece of information a technical writer can independently research and which require consultation with Subject Matter Experts (SMEs).
+
+**Documentation:** [YouTube Data API Overview](https://developers.google.com/youtube/v3/getting-started#resources)
+
+
 | Independent Research | SME Consultation |
 |:----------- |:------| 
 | Prerequisites such as requesting an API key and creating a project in the developer’s console are standard across Google, and documentation exists that could be referenced for research. | YouTube-Specific resources would require SME consultation to ensure that the descriptions of resource types, such as ‘channel’, ‘video’, etc., are accurate, up-to-date, and reflect the intended usage.   |
